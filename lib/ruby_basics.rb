@@ -11,17 +11,17 @@ def argue(name)
 end
 
 def greeting(greeting,name)
-
+  return "Hello #{name}!"
 end
 
-def return_a_value()
-
+def return_a_value
+  return "Nice"
 end
 
-def last_evaluated_value()
-
+def last_evaluated_value
+  return "expert"
 end
 
-def pizza_party()
-
+def pizza_party(ele = "cheese")
+  return ele
 end
