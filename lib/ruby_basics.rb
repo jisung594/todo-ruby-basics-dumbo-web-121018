@@ -10,7 +10,7 @@ def argue(name)
   return name
 end
 
-def greeting(greeting, name = "Ruby Programmer")
+def greeting(greeting, name)
   return "Hello #{name}!"
 end
 
