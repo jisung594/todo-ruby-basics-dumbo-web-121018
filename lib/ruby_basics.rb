@@ -6,7 +6,7 @@ def assign_variable(value)
   i = value
 end
 
-def argue
+def argue(name)
   
 end
 
